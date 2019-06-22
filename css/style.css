@@ -11,3 +11,7 @@ html {
 }
 
 /* Normalize.css */
+
+body {
+    background-color: #2C2141;
+}
